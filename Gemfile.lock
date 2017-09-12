@@ -1,6 +1,6 @@
 GIT
-  remote: https://github.com/artamonovdev/ethereum_new_dependencies
-  revision: bf07dcdf060a381628274805753b8dd79f83cc7e
+  remote: https://github.com/artamonovdev/ethereum.rb
+  revision: 55291ea2366ce8df11997a7d06feaad6d48d7fa5
   specs:
     ethereum.rb (2.1.6)
       activesupport (~> 5.0)
