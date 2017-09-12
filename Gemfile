@@ -4,4 +4,4 @@ source "https://rubygems.org"
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
-gem 'ethereum.rb', github: 'artamonovdev/ethereum_old_dependencies'
+gem 'ethereum.rb', github: 'artamonovdev/ethereum_new_dependencies'

@@ -1,3 +1,4 @@
+require 'bundler/setup'
 require_relative 'ethereum_client.rb'
 
 # transactions config
